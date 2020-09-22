@@ -1,0 +1,310 @@
+[City_Info]
+Name      = Albuquerque, NM
+Latitude  = 35,0833
+Longitude = -106,65
+TimeZone  = -7
+
+Name      = Amsterdam, Netherlands
+Latitude  = 52,367215
+Longitude = 4,886169
+TimeZone  = 1
+
+Name      = Anchorage, AK
+Latitude  = 61,217
+Longitude = -149,9
+TimeZone  = -9
+
+Name      = Atlanta, GA
+Latitude  = 33,733
+Longitude = -84,383
+TimeZone  = -5
+
+Name      = Austin, TX
+Latitude  = 30,283
+Longitude = -97,733
+TimeZone  = -6
+
+Name      = Beijing, China
+Latitude  = 39,9167
+Longitude = 116,4167
+TimeZone  = 8
+
+Name      = Berlin, Germany
+Latitude  = 52,33
+Longitude = 13,3
+TimeZone  = 1
+
+Name      = Birmingham, AL
+Latitude  = 33,521
+Longitude = -86,8025
+TimeZone  = -6
+
+Name      = Bismarck, ND
+Latitude  = 46,817
+Longitude = -100,783
+TimeZone  = -6
+
+Name      = Bogotá, Colombia
+Latitude  = 4,5667
+Longitude = -74
+TimeZone  = -5
+
+Name      = Bombay, India
+Latitude  = 18,9333
+Longitude = 72,8333
+TimeZone  = 5,5
+
+Name      = Boston, MA
+Latitude  = 42,35
+Longitude = -71,05
+TimeZone  = -5
+
+Name      = Boulder, CO
+Latitude  = 40,125
+Longitude = -105,237
+TimeZone  = -7
+
+Name      = Buenos Aires, Argentina
+Latitude  = -34,6
+Longitude = -58,45
+TimeZone  = -3
+
+Name      = Cairo, Egypt
+Latitude  = 30,1
+Longitude = 31,3667
+TimeZone  = 2
+
+Name      = Cali, Colombia
+Latitude  = 3,4167
+Longitude = -76,5833
+TimeZone  = -5
+
+Name      = Cape Town, South Africa
+Latitude  = -33,9167
+Longitude = 18,3667
+TimeZone  = 2
+
+Name      = Caracas, Venezuela
+Latitude  = 10,5
+Longitude = -66,9333
+TimeZone  = -4
+
+Name      = Chicago, IL
+Latitude  = 41,85
+Longitude = -87,65
+TimeZone  = -6
+
+Name      = Dallas, TX
+Latitude  = 32,46
+Longitude = -96,47
+TimeZone  = -6
+
+Name      = Denver, CO
+Latitude  = 39,733
+Longitude = -104,983
+TimeZone  = -7
+
+Name      = Detroit, MI
+Latitude  = 42,333
+Longitude = -83,05
+TimeZone  = -5
+
+Name      = Helsinki, Finland
+Latitude  = 60,1667
+Longitude = 24,9667
+TimeZone  = 2
+
+Name      = Hong Kong, China
+Latitude  = 22,25
+Longitude = 114,1667
+TimeZone  = 8
+
+Name      = Honolulu, HI
+Latitude  = 21,3
+Longitude = -157,85
+TimeZone  = -10
+
+Name      = Houston, TX
+Latitude  = 29,75
+Longitude = -95,35
+TimeZone  = -6
+
+Name      = Indianapolis, IN
+Latitude  = 39,767
+Longitude = -86,15
+TimeZone  = -5
+
+Name      = Jackson, MS
+Latitude  = 32,283
+Longitude = -90,183
+TimeZone  = -6
+
+Name      = Jerusalem, Israel
+Latitude  = 31,7833
+Longitude = 35,2333
+TimeZone  = 2
+
+Name      = Kansas City, MO
+Latitude  = 39,083
+Longitude = -94,567
+TimeZone  = -6
+
+Name      = London, England
+Latitude  = 51,5
+Longitude = 0,1667
+TimeZone  = 0
+
+Name      = Los Angeles, CA
+Latitude  = 34,05
+Longitude = -118,233
+TimeZone  = -8
+
+Name      = Menomonee Falls, WI
+Latitude  = 43,11
+Longitude = -88,1
+TimeZone  = -6
+
+Name      = Mexico City, Mexico
+Latitude  = 19,4
+Longitude = -99,15
+TimeZone  = -6
+
+Name      = Miami, FL
+Latitude  = 25,767
+Longitude = -80,183
+TimeZone  = -5
+
+Name      = Minneapolis, MN
+Latitude  = 44,967
+Longitude = -93,25
+TimeZone  = -6
+
+Name      = Moscow, Russia
+Latitude  = 55,75
+Longitude = 37,5833
+TimeZone  = 3
+
+Name      = New Delhi, India
+Latitude  = 28,6
+Longitude = 77,2
+TimeZone  = 5,5
+
+Name      = New Orleans, LA
+Latitude  = 29,95
+Longitude = -90,067
+TimeZone  = -6
+
+Name      = New York City, NY
+Latitude  = 40,7167
+Longitude = -74,0167
+TimeZone  = -5
+
+Name      = Oklahoma City, OK
+Latitude  = 35,483
+Longitude = -97,533
+TimeZone  = -6
+
+Name      = Ottawa, Canada
+Latitude  = 45,41667
+Longitude = -75,7
+TimeZone  = -5
+
+Name      = Paris, France
+Latitude  = 48,8667
+Longitude = 2,667
+TimeZone  = 1
+
+Name      = Philadelphia, PA
+Latitude  = 39,95
+Longitude = -75,15
+TimeZone  = -5
+
+Name      = Phoenix, AZ
+Latitude  = 33,433
+Longitude = -112,067
+TimeZone  = -7
+
+Name      = Pittsburgh, PA
+Latitude  = 40,433
+Longitude = -79,9833
+TimeZone  = -5
+
+Name      = Portland, ME
+Latitude  = 43,666
+Longitude = -70,283
+TimeZone  = -5
+
+Name      = Portland, OR
+Latitude  = 45,517
+Longitude = -122,65
+TimeZone  = -8
+
+Name      = Raleigh, NC
+Latitude  = 35,783
+Longitude = -78,65
+TimeZone  = -5
+
+Name      = Richmond, VA
+Latitude  = 37,5667
+Longitude = -77,45
+TimeZone  = -5
+
+Name      = Rio de Janeiro, Brazil
+Latitude  = -22,9
+Longitude = -43,2333
+TimeZone  = -3
+
+Name      = Riyadh, Saudi Arabia
+Latitude  = 24,633
+Longitude = 46,71667
+TimeZone  = 3
+
+Name      = Rome, Italy
+Latitude  = 41,9
+Longitude = 12,4833
+TimeZone  = 1
+
+Name      = Saint Louis, MO
+Latitude  = 38,6167
+Longitude = -90,1833
+TimeZone  = -6
+
+Name      = San Diego, CA
+Latitude  = 32,7667
+Longitude = -117,2167
+TimeZone  = -8
+
+Name      = San Francisco, CA
+Latitude  = 37,7667
+Longitude = -122,4167
+TimeZone  = -8
+
+Name      = Seattle, WA
+Latitude  = 47,6
+Longitude = -122,3167
+TimeZone  = -8
+
+Name      = Sydney, Australia
+Latitude  = -33,92513
+Longitude = 151,193848
+TimeZone  = 10
+
+Name      = Tokyo, Japan
+Latitude  = 35,7
+Longitude = 139,7667
+TimeZone  = 9
+
+Name      = Washington DC
+Latitude  = 38,8833
+Longitude = -77,0333
+TimeZone  = -5
+
+Name      = Wellington, New Zealand
+Latitude  = -41,29019
+Longitude = 174,776001
+TimeZone  = 11
+
+Name      = Zurich, Switzerland
+Latitude  = 47,3833
+Longitude = 8,5333
+TimeZone  = 1
